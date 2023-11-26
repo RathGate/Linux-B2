@@ -95,6 +95,7 @@ Si l'on souhaite transmettre à Chrony le nom d'hôte de la machine serveur et n
 **VM serveur/client**:
 
 ![enter image description here](https://i.postimg.cc/6qncLWwL/Capture-d-cran-2023-11-26-192537.png)
+
 Synchronisée avec succès avec le deuxième serveur distant de sa liste.
 
 **VM client**:
