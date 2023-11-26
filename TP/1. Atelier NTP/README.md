@@ -51,7 +51,7 @@ Pour plus de détails, voir l'article du [blog MicroLinux](https://blog.microlin
 
 ## 1. VM Client/Serveur NTP
 
-**Prérequis**: Installer la VM en suivant intégralement le point précédent _Mise en place de Chrony_.
+**Prérequis**: Installer la VM en suivant intégralement le point précédent [_Mise en place de Chrony_](https://github.com/RathGate/Linux-B2-Novak/tree/main/TP/1.%20Atelier%20NTP#mise-en-place-de-chrony).
 
 ### Configuration supplémentaire en tant que serveur de temps
 
@@ -86,7 +86,7 @@ Si l'on souhaite transmettre à Chrony le nom d'hôte de la machine serveur et n
 
 ### Mise en place de Chrony
 
-- Réaliser la mise en place complète de Chrony selon le point `Mise en place de Chrony` plus haut, mais en mettant le nom d'hôte de la VM serveur au lieu des quatre serveurs NTP distants dans `/etc/chrony.conf`:
+- Réaliser la mise en place complète de Chrony selon le point [_Mise en place de Chrony_](https://github.com/RathGate/Linux-B2-Novak/tree/main/TP/1.%20Atelier%20NTP#mise-en-place-de-chrony) plus haut, mais en mettant le nom d'hôte de la VM serveur au lieu des quatre serveurs NTP distants dans `/etc/chrony.conf`:
 
 ![enter image description here](https://i.postimg.cc/DZDLMt5j/1.png)
 
