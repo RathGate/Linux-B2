@@ -1,0 +1,19 @@
+{
+  "attachmentFolderPath": "./_attached_files",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "rightToLeft": false,
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "GameDev/"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "e8fa18ec63dcf694",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1416c3b3631662d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5c981023be8baa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rocky Linux 8/0. Bases/Synchronisation NTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60d9bdac62b57b7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca6a7c4e4ab556a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e659f2fce13519",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "271a7ebe3f21e7b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f460bf42975c612",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b4686339a153a7e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f30591f39d1fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "480b11d19af8ee16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rocky Linux 8/0. Bases/Synchronisation NTP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7117de4bd5890629",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rocky Linux 8/0. Bases/Synchronisation NTP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "457d6a1781356902",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f21f29d4036c3d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rocky Linux 8/0. Bases/Synchronisation NTP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "wikipedia-search:Open Article": false
+    }
+  },
+  "active": "a5c981023be8baa7",
+  "lastOpenFiles": [
+    "Rocky Linux 8/0. Bases/1.1 Création de la VM RL8.md",
+    "GameDev/Notes shooting system.md",
+    "Nouveau Document texte.txt",
+    "_attached_files/Pasted image 20240118145341.png",
+    "GameDev",
+    "_attached_files/Pasted image 20231219000743.png",
+    "_attached_files/Pasted image 20231218040930.png",
+    "_attached_files/Pasted image 20231218042820.png",
+    "_attached_files/Pasted image 20231218032206.png",
+    "_attached_files/Pasted image 20231218031951.png",
+    "_attached_files/Pasted image 20231218031236.png",
+    "_attached_files/Pasted image 20231218021950.png",
+    "_attached_files/Pasted image 20231218013329.png",
+    "_attached_files/elinks.png",
+    "Rocky Linux 8/Serveur Web/Wordpress.md",
+    "Rocky Linux 8/_Notes/Hostname.md",
+    "Game Prog/Untitled.md",
+    "Networking/Cours B2/Notes.md",
+    "Networking/Cours B2/Listes de commandes.md",
+    "Networking/TP Noté/Configs/Serveurs.md",
+    "Networking/TP Noté/Notes.md",
+    "Networking/TP Noté/Configs/Aix.md",
+    "Networking/TP Noté/Configs/Internet.md",
+    "Networking/TP Noté/Configs/Lyon.md",
+    "Networking/TP Noté/Configs/Paris.md",
+    "Networking/Glossaire/VLAN.md",
+    "Networking/Glossaire/Untitled.canvas",
+    "Networking/Cours B2/Notes Evz.md",
+    "Mes couilles en ski.md",
+    "2024-01-18.md",
+    "Networking/Cours B2/notes fabio.md",
+    "Networking/Cours B2/Partie 1.md",
+    "Networking/Glossaire/LAG.md",
+    "Networking/Glossaire/OSPF.md",
+    "Networking/Glossaire/RIP.md",
+    "Networking/Glossaire/DNS.md",
+    "Networking/Cours B2/Cisco",
+    "Networking/TP Noté/Adressage TP.md",
+    "PHP - DBAL & API.md",
+    "Notes Cours 1.md",
+    "Networking/TP Noté/Configs/Aix",
+    "Networking/TP Noté/Configs",
+    "Game Prog",
+    "Networking/TP Noté",
+    "Networking/Glossaire",
+    "Networking/Cours B2/reseau_2",
+    "Networking/Cours B2/reseau_1_eva",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

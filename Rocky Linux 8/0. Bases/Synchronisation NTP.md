@@ -1,4 +1,3 @@
-# TP 1: Atelier NTP
 
 **But**: Création d'une VM synchronisée à un serveur NTP externe, servant elle-même de serveur NTP à une deuxième VM, toutes deux sous Rocky Linux 8.
 
