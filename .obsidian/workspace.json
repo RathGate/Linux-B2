@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92cbb3236d003e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PFSense/Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rocky Linux 8/0. Bases/Synchronisation NTP.md",
+                "file": "PFSense/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rocky Linux 8/0. Bases/Synchronisation NTP.md",
+                "file": "PFSense/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rocky Linux 8/0. Bases/Synchronisation NTP.md"
+                "file": "PFSense/Configuration.md"
               }
             }
           }
@@ -147,22 +160,27 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "a5c981023be8baa7",
+  "active": "92cbb3236d003e8e",
   "lastOpenFiles": [
+    "PFSense/_attached_files/Pasted image 20240206214226.png",
+    "PFSense/_attached_files/Pasted image 20240206213829.png",
+    "PFSense/_attached_files/Pasted image 20240206213730.png",
+    "PFSense/_attached_files/Pasted image 20240206213424.png",
+    "PFSense/_attached_files/Pasted image 20240206213123.png",
+    "PFSense/_attached_files/Pasted image 20240206212308.png",
+    "PFSense/_attached_files/Pasted image 20240206211543.png",
+    "PFSense/_attached_files/Pasted image 20240206211346.png",
+    "PFSense/_attached_files/Pasted image 20240206211226.png",
+    "PFSense/_attached_files/Pasted image 20240206211020.png",
+    "PFSense/_attached_files/Pasted image 20240206210711.png",
+    "PFSense/_attached_files",
+    "Rocky Linux 8/0. Bases/Synchronisation NTP.md",
+    "PFSense/Configuration.md",
+    "PFSense",
     "Rocky Linux 8/0. Bases/1.1 Création de la VM RL8.md",
     "GameDev/Notes shooting system.md",
     "Nouveau Document texte.txt",
-    "_attached_files/Pasted image 20240118145341.png",
     "GameDev",
-    "_attached_files/Pasted image 20231219000743.png",
-    "_attached_files/Pasted image 20231218040930.png",
-    "_attached_files/Pasted image 20231218042820.png",
-    "_attached_files/Pasted image 20231218032206.png",
-    "_attached_files/Pasted image 20231218031951.png",
-    "_attached_files/Pasted image 20231218031236.png",
-    "_attached_files/Pasted image 20231218021950.png",
-    "_attached_files/Pasted image 20231218013329.png",
-    "_attached_files/elinks.png",
     "Rocky Linux 8/Serveur Web/Wordpress.md",
     "Rocky Linux 8/_Notes/Hostname.md",
     "Game Prog/Untitled.md",
@@ -186,16 +204,11 @@
     "Networking/Glossaire/RIP.md",
     "Networking/Glossaire/DNS.md",
     "Networking/Cours B2/Cisco",
-    "Networking/TP Noté/Adressage TP.md",
-    "PHP - DBAL & API.md",
-    "Notes Cours 1.md",
     "Networking/TP Noté/Configs/Aix",
     "Networking/TP Noté/Configs",
     "Game Prog",
     "Networking/TP Noté",
     "Networking/Glossaire",
-    "Networking/Cours B2/reseau_2",
-    "Networking/Cours B2/reseau_1_eva",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
